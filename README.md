@@ -1,13 +1,13 @@
-# QuizApp
+# Quiz App
 
-A new Flutter project.
+A Quiz App Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+you should add build folder (this folder created automaticlly when you strat a new flutter project).
 
 A few resources to get you started if this is your first Flutter project:
-
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 

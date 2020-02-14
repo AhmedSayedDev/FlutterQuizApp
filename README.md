@@ -1,5 +1,5 @@
 # Quiz App
-A Quiz App Flutter project.
+A Flutter project.
 
 
 <img src="https://user-images.githubusercontent.com/30100951/74546300-6dbde080-4f5b-11ea-8a02-fe408db33d52.jpeg" alt="app icon" width="200"/>
